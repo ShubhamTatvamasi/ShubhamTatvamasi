@@ -1,5 +1,4 @@
-### Hi there 👋
-
+- 🔭 Working on [magma](https://github.com/magma/magma)
 <!--
 **ShubhamTatvamasi/ShubhamTatvamasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
