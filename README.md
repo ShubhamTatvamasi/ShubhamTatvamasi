@@ -1,4 +1,4 @@
-- 🔭 Working on [magma](https://github.com/magma/magma), making some [commits](https://github.com/magma/magma/commits?author=ShubhamTatvamasi), fixing some [issues](https://github.com/magma/magma/issues/assigned/ShubhamTatvamasi), doing some [discussions](https://github.com/magma/magma/discussions?author=ShubhamTatvamasi).
+- 🔭 Working on [magma](https://github.com/magma/magma), making [commits](https://github.com/magma/magma/commits?author=ShubhamTatvamasi), fixing [issues](https://github.com/magma/magma/issues/assigned/ShubhamTatvamasi), doing [discussions](https://github.com/magma/magma/discussions?author=ShubhamTatvamasi).
 
 <!--
 **ShubhamTatvamasi/ShubhamTatvamasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
