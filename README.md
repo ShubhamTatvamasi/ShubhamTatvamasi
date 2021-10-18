@@ -1,5 +1,15 @@
 🔭 Researching on [magma](https://github.com/magma/magma), making [commits](https://github.com/magma/magma/commits?author=ShubhamTatvamasi), fixing [issues](https://github.com/magma/magma/issues/assigned/ShubhamTatvamasi), doing [discussions](https://github.com/magma/magma/discussions?author=ShubhamTatvamasi).
 
+<details>
+  <summary>Why I am Awesome?</summary>
+
+  - Always Learning
+  - Sharing knowledge
+  - Open Source Lover
+  - Helping Community
+</details>
+
+
 <!--
 **ShubhamTatvamasi/ShubhamTatvamasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
