@@ -6,7 +6,7 @@
   - A Problem Solver - an inquisitive mind that continually strives for the right answers;
   - A People Person - good at conveying, teaching and training the acquired skills to the community;
   - A Team Player - well aware of the art of collaboration and team-building;
-  - Passion for Open Source;
+  - Passionate for Open Source;
   - Above it all, believes that self-discipline is the driving force behind achieving any goal.
 </details>
 
