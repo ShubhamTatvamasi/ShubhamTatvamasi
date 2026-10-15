@@ -7,5 +7,5 @@ I build the quiet machinery behind intelligent systems: Kubernetes-native infere
 - GitOps and platform engineering at fleet scale
 - Post-quantum security and edge networking
 
-**Stack:** Kubernetes · Go · vLLM · KServe · NVIDIA GPU Operator · Prometheus · Flux CD · Terraform  
+**Stack:** Kubernetes · Go · vLLM · KServe · NVIDIA Dynamo · GPU Operator · Prometheus · Flux CD · Terraform  
 **Certified:** CKA · CKS · AWS Solutions Architect Associate
